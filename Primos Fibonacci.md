@@ -7,7 +7,7 @@ class Program
     {
         int n = 20; 
         Console.WriteLine("Numeros primos en la serie de Fibonacci hasta el termino " + n + ":");  
-        FibonacciPrimos(n);  
+        FibonacciPrimos(n);
     }
 
     static void FibonacciPrimos(int n)  
