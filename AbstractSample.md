@@ -1,3 +1,4 @@
+```csharp
 using System;
 
 abstract class AbstractSample
@@ -90,5 +91,5 @@ class MessageManager
         printer2.PrintMessage(printer2.InvertMessage("Hola Mundo!"));
     }
 }
-
+```
 <img width="280" height="52" alt="image" src="https://github.com/user-attachments/assets/363d24b7-2fbb-423b-b5eb-d871556266bb" />
