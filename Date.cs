@@ -1,5 +1,4 @@
 using System;  
-// Se importa el espacio de nombres necesario para usar funciones básicas como Console y String.
 
 class Program  
 {
