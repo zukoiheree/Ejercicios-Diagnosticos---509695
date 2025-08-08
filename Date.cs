@@ -1,4 +1,3 @@
-```csharp
 using System;  
 // Se importa el espacio de nombres necesario para usar funciones básicas como Console y String.
 
@@ -23,5 +22,4 @@ class Program
     }
 }
 
-```
-<img width="326" height="76" alt="image" src="https://github.com/user-attachments/assets/21a315f7-fc99-4df4-bbc5-2382d51adcec" />
+
