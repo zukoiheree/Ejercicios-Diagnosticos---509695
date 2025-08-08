@@ -1,4 +1,3 @@
-```csharp
 using System;  
 
 class Program  
@@ -43,6 +42,5 @@ class Program
         return true;  
     }
 }
-```
-<img width="548" height="189" alt="image" src="https://github.com/user-attachments/assets/2c4a89da-ea9b-4972-bce2-a420dd16bada" />
+
 
